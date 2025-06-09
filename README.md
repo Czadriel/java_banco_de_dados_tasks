@@ -23,10 +23,3 @@ Este é um projeto simples em Java usando Spring Boot 3.5.0 para gerenciar taref
 - HikariCP
 - Maven para gerenciamento de dependências
 
-## Como rodar
-
-1. Configure seu banco de dados MySQL e ajuste as credenciais no arquivo `application.properties` ou `application.yml`.
-2. Compile e rode a aplicação:
-   ```bash
-   mvn clean install
-   mvn spring-boot:run
